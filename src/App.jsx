@@ -9,7 +9,7 @@ import CustomerReview from "./components/CustomerReview";
 // import LatestNews from "./components/LatestNews";
 import ContactSection from "./components/ContactSection";
 import WorldMap from "./components/WorldMap";
-import CarBrands from "./components/carBrands";
+import CarBrands from "./components/CarBrands";
 function App() {
 
   return (
